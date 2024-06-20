@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F52mWK7pT3w=",
+  "dgSpecHash": "nfLwk5rMYjc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\tuya_\\source\\repos\\Testning_Inlämning\\CarSimulatorTests\\CarSimulatorTests.csproj",
+  "projectFilePath": "C:\\Users\\tuya_\\source\\repos\\CarSimulator\\CarSimulatorTests\\CarSimulatorTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tuya_\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\tuya_\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",

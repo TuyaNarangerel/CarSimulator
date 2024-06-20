@@ -1,35 +1,35 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tuya_\\source\\repos\\Testning_Inl\u00E4mning\\CarSimulator\\",
+  "WorkspaceRootPath": "C:\\Users\\tuya_\\source\\repos\\CarSimulator\\CarSimulator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C64E15B-3CE0-4B16-8DFD-D24504B28F2F}|CarSimulator.csproj|c:\\users\\tuya_\\source\\repos\\testning_inl\u00E4mning\\carsimulator\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C64E15B-3CE0-4B16-8DFD-D24504B28F2F}|CarSimulator.csproj|c:\\users\\tuya_\\source\\repos\\carsimulator\\carsimulator\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C64E15B-3CE0-4B16-8DFD-D24504B28F2F}|CarSimulator.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CB87F52-51E2-4D11-8020-319FA9144497}|..\\CarSimulatorTests\\CarSimulatorTests.csproj|c:\\users\\tuya_\\source\\repos\\testning_inl\u00E4mning\\carsimulatortests\\cartests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C64E15B-3CE0-4B16-8DFD-D24504B28F2F}|CarSimulator.csproj|c:\\users\\tuya_\\source\\repos\\testning_inl\u00E4mning\\carsimulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C64E15B-3CE0-4B16-8DFD-D24504B28F2F}|CarSimulator.csproj|c:\\users\\tuya_\\source\\repos\\carsimulator\\carsimulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C64E15B-3CE0-4B16-8DFD-D24504B28F2F}|CarSimulator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C64E15B-3CE0-4B16-8DFD-D24504B28F2F}|CarSimulator.csproj|c:\\users\\tuya_\\source\\repos\\testning_inl\u00E4mning\\carsimulator\\randomuser\\randomuserresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C64E15B-3CE0-4B16-8DFD-D24504B28F2F}|CarSimulator.csproj|c:\\users\\tuya_\\source\\repos\\carsimulator\\carsimulator\\randomuser\\randomuserresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C64E15B-3CE0-4B16-8DFD-D24504B28F2F}|CarSimulator.csproj|solutionrelative:randomuser\\randomuserresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C64E15B-3CE0-4B16-8DFD-D24504B28F2F}|CarSimulator.csproj|c:\\users\\tuya_\\source\\repos\\testning_inl\u00E4mning\\carsimulator\\randomuser\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C64E15B-3CE0-4B16-8DFD-D24504B28F2F}|CarSimulator.csproj|c:\\users\\tuya_\\source\\repos\\carsimulator\\carsimulator\\randomuser\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C64E15B-3CE0-4B16-8DFD-D24504B28F2F}|CarSimulator.csproj|solutionrelative:randomuser\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C64E15B-3CE0-4B16-8DFD-D24504B28F2F}|CarSimulator.csproj|c:\\users\\tuya_\\source\\repos\\testning_inl\u00E4mning\\carsimulator\\randomuser\\name.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C64E15B-3CE0-4B16-8DFD-D24504B28F2F}|CarSimulator.csproj|c:\\users\\tuya_\\source\\repos\\carsimulator\\carsimulator\\randomuser\\name.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C64E15B-3CE0-4B16-8DFD-D24504B28F2F}|CarSimulator.csproj|solutionrelative:randomuser\\name.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CB87F52-51E2-4D11-8020-319FA9144497}|..\\CarSimulatorTests\\CarSimulatorTests.csproj|c:\\users\\tuya_\\source\\repos\\testning_inl\u00E4mning\\carsimulatortests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tuya_\\source\\repos\\Testning_Inl\u00E4mning\\CarSimulatorTests\\CarSimulatorTests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CB87F52-51E2-4D11-8020-319FA9144497}|..\\CarSimulatorTests\\CarSimulatorTests.csproj|c:\\users\\tuya_\\source\\repos\\testning_inl\u00E4mning\\carsimulatortests\\carsimulatortests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tuya_\\source\\repos\\Testning_Inl\u00E4mning\\CarSimulatorTests\\CarTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tuya_\\source\\repos\\Testning_Inl\u00E4mning\\CarSimulatorTests\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,89 +51,83 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "RandomUserResults.cs",
-              "DocumentMoniker": "C:\\Users\\tuya_\\source\\repos\\Testning_Inl\u00E4mning\\CarSimulator\\RandomUser\\RandomUserResults.cs",
+              "DocumentMoniker": "C:\\Users\\tuya_\\source\\repos\\CarSimulator\\CarSimulator\\RandomUser\\RandomUserResults.cs",
               "RelativeDocumentMoniker": "RandomUser\\RandomUserResults.cs",
-              "ToolTip": "C:\\Users\\tuya_\\source\\repos\\Testning_Inl\u00E4mning\\CarSimulator\\RandomUser\\RandomUserResults.cs",
+              "ToolTip": "C:\\Users\\tuya_\\source\\repos\\CarSimulator\\CarSimulator\\RandomUser\\RandomUserResults.cs",
               "RelativeToolTip": "RandomUser\\RandomUserResults.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T09:08:35.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T09:08:35.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\tuya_\\source\\repos\\CarSimulator\\CarSimulator\\RandomUser\\User.cs",
+              "RelativeDocumentMoniker": "RandomUser\\User.cs",
+              "ToolTip": "C:\\Users\\tuya_\\source\\repos\\CarSimulator\\CarSimulator\\RandomUser\\User.cs",
+              "RelativeToolTip": "RandomUser\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:08:26.366Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\tuya_\\source\\repos\\Testning_Inl\u00E4mning\\CarSimulator\\RandomUser\\User.cs",
-              "RelativeDocumentMoniker": "RandomUser\\User.cs",
-              "ToolTip": "C:\\Users\\tuya_\\source\\repos\\Testning_Inl\u00E4mning\\CarSimulator\\RandomUser\\User.cs",
-              "RelativeToolTip": "RandomUser\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Title": "Name.cs",
+              "DocumentMoniker": "C:\\Users\\tuya_\\source\\repos\\CarSimulator\\CarSimulator\\RandomUser\\Name.cs",
+              "RelativeDocumentMoniker": "RandomUser\\Name.cs",
+              "ToolTip": "C:\\Users\\tuya_\\source\\repos\\CarSimulator\\CarSimulator\\RandomUser\\Name.cs",
+              "RelativeToolTip": "RandomUser\\Name.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T09:08:26.366Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T09:08:09.877Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Name.cs",
-              "DocumentMoniker": "C:\\Users\\tuya_\\source\\repos\\Testning_Inl\u00E4mning\\CarSimulator\\RandomUser\\Name.cs",
-              "RelativeDocumentMoniker": "RandomUser\\Name.cs",
-              "ToolTip": "C:\\Users\\tuya_\\source\\repos\\Testning_Inl\u00E4mning\\CarSimulator\\RandomUser\\Name.cs",
-              "RelativeToolTip": "RandomUser\\Name.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T09:08:09.877Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CarSimulatorTests",
+              "Title": "CarSimulatorTests.csproj",
               "DocumentMoniker": "C:\\Users\\tuya_\\source\\repos\\Testning_Inl\u00E4mning\\CarSimulatorTests\\CarSimulatorTests.csproj",
-              "RelativeDocumentMoniker": "..\\CarSimulatorTests\\CarSimulatorTests.csproj",
+              "RelativeDocumentMoniker": "..\\..\\Testning_Inl\u00E4mning\\CarSimulatorTests\\CarSimulatorTests.csproj",
               "ToolTip": "C:\\Users\\tuya_\\source\\repos\\Testning_Inl\u00E4mning\\CarSimulatorTests\\CarSimulatorTests.csproj",
-              "RelativeToolTip": "..\\CarSimulatorTests\\CarSimulatorTests.csproj",
+              "RelativeToolTip": "..\\..\\Testning_Inl\u00E4mning\\CarSimulatorTests\\CarSimulatorTests.csproj",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-19T12:14:59.008Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CarTests.cs",
-              "DocumentMoniker": "C:\\Users\\tuya_\\source\\repos\\Testning_Inl\u00E4mning\\CarSimulatorTests\\CarTests.cs",
-              "RelativeDocumentMoniker": "..\\CarSimulatorTests\\CarTests.cs",
-              "ToolTip": "C:\\Users\\tuya_\\source\\repos\\Testning_Inl\u00E4mning\\CarSimulatorTests\\CarTests.cs",
-              "RelativeToolTip": "..\\CarSimulatorTests\\CarTests.cs",
-              "ViewState": "AQIAAKEBAAAAAAAAAAAwwLgBAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T18:41:31.791Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T12:14:59.008Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "CarTests.cs",
+              "DocumentMoniker": "C:\\Users\\tuya_\\source\\repos\\Testning_Inl\u00E4mning\\CarSimulatorTests\\CarTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\Testning_Inl\u00E4mning\\CarSimulatorTests\\CarTests.cs",
+              "ToolTip": "C:\\Users\\tuya_\\source\\repos\\Testning_Inl\u00E4mning\\CarSimulatorTests\\CarTests.cs",
+              "RelativeToolTip": "..\\..\\Testning_Inl\u00E4mning\\CarSimulatorTests\\CarTests.cs",
+              "ViewState": "AQIAAKEBAAAAAAAAAAAwwLgBAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T18:41:31.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\tuya_\\source\\repos\\Testning_Inl\u00E4mning\\CarSimulatorTests\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "..\\CarSimulatorTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\..\\Testning_Inl\u00E4mning\\CarSimulatorTests\\UnitTest1.cs",
               "ToolTip": "C:\\Users\\tuya_\\source\\repos\\Testning_Inl\u00E4mning\\CarSimulatorTests\\UnitTest1.cs",
-              "RelativeToolTip": "..\\CarSimulatorTests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\..\\Testning_Inl\u00E4mning\\CarSimulatorTests\\UnitTest1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T18:41:05.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-17T18:41:05.257Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Car.cs",
-              "DocumentMoniker": "C:\\Users\\tuya_\\source\\repos\\Testning_Inl\u00E4mning\\CarSimulator\\Car.cs",
+              "DocumentMoniker": "C:\\Users\\tuya_\\source\\repos\\CarSimulator\\CarSimulator\\Car.cs",
               "RelativeDocumentMoniker": "Car.cs",
-              "ToolTip": "C:\\Users\\tuya_\\source\\repos\\Testning_Inl\u00E4mning\\CarSimulator\\Car.cs",
+              "ToolTip": "C:\\Users\\tuya_\\source\\repos\\CarSimulator\\CarSimulator\\Car.cs",
               "RelativeToolTip": "Car.cs",
               "ViewState": "AQIAAF8AAAAAAAAAAADwv3AAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -142,16 +136,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tuya_\\source\\repos\\Testning_Inl\u00E4mning\\CarSimulator\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\tuya_\\source\\repos\\CarSimulator\\CarSimulator\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\tuya_\\source\\repos\\Testning_Inl\u00E4mning\\CarSimulator\\Program.cs",
+              "ToolTip": "C:\\Users\\tuya_\\source\\repos\\CarSimulator\\CarSimulator\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAEQAAAAAAAAAAAAIwEwAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T17:53:20.265Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-17T17:53:20.265Z"
             }
           ]
         }

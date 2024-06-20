@@ -1403,11 +1403,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tuya_\\source\\repos\\Testning_Inlämning\\CarSimulator\\CarSimulator.csproj",
+      "projectUniqueName": "C:\\Users\\tuya_\\source\\repos\\CarSimulator\\CarSimulator\\CarSimulator.csproj",
       "projectName": "CarSimulator",
-      "projectPath": "C:\\Users\\tuya_\\source\\repos\\Testning_Inlämning\\CarSimulator\\CarSimulator.csproj",
+      "projectPath": "C:\\Users\\tuya_\\source\\repos\\CarSimulator\\CarSimulator\\CarSimulator.csproj",
       "packagesPath": "C:\\Users\\tuya_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tuya_\\source\\repos\\Testning_Inlämning\\CarSimulator\\obj\\",
+      "outputPath": "C:\\Users\\tuya_\\source\\repos\\CarSimulator\\CarSimulator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tuya_\\AppData\\Roaming\\NuGet\\NuGet.Config",

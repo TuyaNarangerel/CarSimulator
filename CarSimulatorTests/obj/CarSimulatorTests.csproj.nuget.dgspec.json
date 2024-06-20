@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tuya_\\source\\repos\\Testning_Inlämning\\CarSimulatorTests\\CarSimulatorTests.csproj": {}
+    "C:\\Users\\tuya_\\source\\repos\\CarSimulator\\CarSimulatorTests\\CarSimulatorTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tuya_\\source\\repos\\Testning_Inlämning\\CarSimulatorTests\\CarSimulatorTests.csproj": {
+    "C:\\Users\\tuya_\\source\\repos\\CarSimulator\\CarSimulatorTests\\CarSimulatorTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tuya_\\source\\repos\\Testning_Inlämning\\CarSimulatorTests\\CarSimulatorTests.csproj",
+        "projectUniqueName": "C:\\Users\\tuya_\\source\\repos\\CarSimulator\\CarSimulatorTests\\CarSimulatorTests.csproj",
         "projectName": "CarSimulatorTests",
-        "projectPath": "C:\\Users\\tuya_\\source\\repos\\Testning_Inlämning\\CarSimulatorTests\\CarSimulatorTests.csproj",
+        "projectPath": "C:\\Users\\tuya_\\source\\repos\\CarSimulator\\CarSimulatorTests\\CarSimulatorTests.csproj",
         "packagesPath": "C:\\Users\\tuya_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tuya_\\source\\repos\\Testning_Inlämning\\CarSimulatorTests\\obj\\",
+        "outputPath": "C:\\Users\\tuya_\\source\\repos\\CarSimulator\\CarSimulatorTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tuya_\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\tuya_\\source\\repos\\Testning_Inlämning\\CarSimulator\\CarSimulator.csproj": {
-                "projectPath": "C:\\Users\\tuya_\\source\\repos\\Testning_Inlämning\\CarSimulator\\CarSimulator.csproj"
+              "C:\\Users\\tuya_\\source\\repos\\CarSimulator\\CarSimulator\\CarSimulator.csproj": {
+                "projectPath": "C:\\Users\\tuya_\\source\\repos\\CarSimulator\\CarSimulator\\CarSimulator.csproj"
               }
             }
           }
@@ -91,14 +91,14 @@
         }
       }
     },
-    "C:\\Users\\tuya_\\source\\repos\\Testning_Inlämning\\CarSimulator\\CarSimulator.csproj": {
+    "C:\\Users\\tuya_\\source\\repos\\CarSimulator\\CarSimulator\\CarSimulator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tuya_\\source\\repos\\Testning_Inlämning\\CarSimulator\\CarSimulator.csproj",
+        "projectUniqueName": "C:\\Users\\tuya_\\source\\repos\\CarSimulator\\CarSimulator\\CarSimulator.csproj",
         "projectName": "CarSimulator",
-        "projectPath": "C:\\Users\\tuya_\\source\\repos\\Testning_Inlämning\\CarSimulator\\CarSimulator.csproj",
+        "projectPath": "C:\\Users\\tuya_\\source\\repos\\CarSimulator\\CarSimulator\\CarSimulator.csproj",
         "packagesPath": "C:\\Users\\tuya_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tuya_\\source\\repos\\Testning_Inlämning\\CarSimulator\\obj\\",
+        "outputPath": "C:\\Users\\tuya_\\source\\repos\\CarSimulator\\CarSimulator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tuya_\\AppData\\Roaming\\NuGet\\NuGet.Config",
